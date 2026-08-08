@@ -3,7 +3,7 @@ This program is a GUI wrapper for the mount and imgmount commands in DosBox.
 
 This program is written using the DOS version of Visual Basic.
 
-Instructions:
+# Instructions:
 
 Step 1: Install the DOS version of Visual Basic in DosBox.
 
